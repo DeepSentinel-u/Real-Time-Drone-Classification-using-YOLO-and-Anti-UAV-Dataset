@@ -15,13 +15,13 @@ This project implements a real-time drone detection and classification system us
 
 ### 👥 Team Contribution
 
-| Name             | Key Roles and Contributions                                                                                    |
-|------------------|----------------------------------------------------------------------------------------------------------------|
-| **Li Kerui**     | YOLOv8 training and optimization, data preprocessing, mAP and inference time analysis, visualization.          |
-| **Zhao Jichen**  | Project design, methodology writing, heatmap/confidence analysis, report integration and polishing.            |
-| **Zhou Xingyu**  | Dataset split and management, YOLOv5 comparison, error analysis, visualization and presentation framework.     |
-| **Thuta Zaw**    | Literature review, experiment logging, multilingual presentation materials and poster design.                  |
-| **Zhang Gaorui** | GUI design and visualization output support, system reproducibility and testing.                               |
+| Name          | Key Roles and Contributions                                                                                 |
+|---------------|--------------------------------------------------------------------------------------------------------------|
+| **Li Kerui**      | YOLOv8 training and optimization, data preprocessing, mAP and inference time analysis, visualization.     |
+| **Zhao Jichen**   | Project design, methodology writing, heatmap/confidence analysis, report integration and polishing.       |
+| **Zhou Xingyu**   | Dataset split and management, YOLOv5 comparison, error analysis, visualization and presentation framework. |
+| **Thuta Zaw**     | Literature review, experiment logging, multilingual presentation materials and poster design.             |
+| **Zhang Gaorui**  | GUI design and visualization output support, system reproducibility and testing.                          |
 
 > All members participated in weekly discussions, documentation, and final presentation.  
 
