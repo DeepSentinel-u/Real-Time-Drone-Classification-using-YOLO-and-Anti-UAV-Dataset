@@ -115,5 +115,9 @@ Additional observations and configuration tips are documented in `model_notes.tx
 
 ## 🙌 Acknowledgements
 
-- **Dataset**: [Anti-UAV Benchmark (ECCV 2020)](https://github.com/Anti-UAVDataset)
+## 🙌 Acknowledgements
+
+- **Dataset**: [Anti-UAV Benchmark (ECCV 2020)](https://github.com/ZhaoJ9014/Anti-UAV)  
+  We sincerely thank the authors of the Anti-UAV dataset for providing a valuable resource for UAV detection and tracking research.
+  
 - **Model Framework**: [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
