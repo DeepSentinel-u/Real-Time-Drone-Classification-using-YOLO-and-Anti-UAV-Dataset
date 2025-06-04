@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://i.imgur.com/7YO14vA.png" width="600"/>
+</p>
+
+# DRONE-DETECTION-INTRUSION-ALERT
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Model-green)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Colab-lightgrey)
 
 # DRONE-DETECTION-INTRUSION-ALERT
 
