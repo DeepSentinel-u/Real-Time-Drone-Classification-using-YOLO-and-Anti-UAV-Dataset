@@ -1,0 +1,19 @@
+Model Weights Description (English)
+
+This folder contains trained YOLOv8 model weights for drone detection tasks using different data modalities.
+
+1. weights(S300)/:
+   - Type: Visible + Infrared (RGBT) fusion dataset
+   - Dataset: Anti-UAV (subset S300)
+   - Model: YOLOv8
+   - Output: Best checkpoint saved based on validation performance
+   - Purpose: Used for detecting drones in mixed-sensor video streams
+
+2. weights(S410)/:
+   - Type: Infrared-only dataset
+   - Dataset: Anti-UAV (subset S410)
+   - Model: YOLOv8
+   - Output: Best checkpoint based on infrared input
+   - Purpose: Used for drone detection under low-light or thermal imaging conditions
+
+Note: All models are trained with a confidence threshold of 0.2 and use mAP@0.5 as the primary evaluation metric.
